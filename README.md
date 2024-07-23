@@ -1,9 +1,7 @@
-Contenido del Repositorio
 El repositorio contiene:
 
 db.json: El archivo principal que actúa como base de datos para el servidor.
 package.json: Define las dependencias del proyecto y scripts útiles.
-server.js: Archivo principal que inicia el servidor json-server.
 Requisitos
 Para ejecutar este proyecto, necesitarás tener instalado Node.js (versión recomendada LTS) y npm (que viene con Node.js).
 
